@@ -1,0 +1,7 @@
+default:
+    suites:
+        default:
+            contexts:
+              - FeatureContext:
+                    github_username:   bsemexan
+                    github_password:   2vP-6Tb-qC3-YbU
